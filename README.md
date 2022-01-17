@@ -1,5 +1,5 @@
-_ipynb_の用途
-歌詞単語が、（_CEFR-J Wordlist_）小学生単語E1、中学生単語A1A2、高学生単語B1、大学生単語B2、L1、各_Wordlist_に、ある、ない、表示
+_ipynb_の用途、
+歌詞単語の、小学生単語E1、中学生単語A1A2(CEFR-J)、高学生単語B1(CEFR-J)、大学生単語B2(CEFR-J)、L1、各_Wordlist_に、ある、ない、表示
 
 、Google_Colab_利用手順
 「1_2_1_歌詞の分布.ipynb」の、構成1,2,3,4,5,6
