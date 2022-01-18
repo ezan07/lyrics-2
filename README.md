@@ -10,5 +10,5 @@ _(5)_E1_+_AB_
 _(6)_歌詞単語_分布
 _「1_2_1_歌詞単語の分布.ipynb」のディレクトリに、lyrics_list.zip、word_list.zip、解凍してフォルダを置く、_L1_edit.txt_は、ファイルで置く、
 https://eigo-lab.com/word-list4/
-　　小学校で習う英単語リスト
+　　小学校で習う英単語リスト eigo_lab
   
