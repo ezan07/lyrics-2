@@ -1,4 +1,4 @@
-_歌詞単語の分布.ipynb_は、
+_1_2_1_歌詞単語の分布.ipynb_は、
 歌詞単語の、小学生単語E1、中学生単語A1A2(CEFR-J)、高学生単語B1(CEFR-J)、大学生単語B2(CEFR-J)、L1、各_Wordlist_に、ある、ない、表示
 
 、Google_Colab_利用手順
